@@ -26,7 +26,7 @@ Data was preprocessed to handle categorical features and missing values to test 
 
 ## 5. How to Run This Project
 
-1.  **Open bot-classification-analysis.ipnyb in Google Collab**
+1.  **Open Bot-Classification-Analysis.ipnyb in Google Collab**
 2.  **Make a copy of the project**
 3.  **Set the train flag to True to retrain it**
 
