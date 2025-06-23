@@ -42,5 +42,3 @@ Data was preprocessed to handle categorical features and missing values to test 
 ## 6. Key Results
 
 Our analysis showed that the **XGBoost model achieved the highest testing accuracy of 0.98**. The neural network, while also effective, performed slightly lower. The primary limitation was the handling of categorical features, which were more naturally handled by XGBoost.
-
-````
