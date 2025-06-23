@@ -8,14 +8,12 @@ This project explores the effectiveness of tree-based and neural-based models fo
 
 ## 2. Experimental Question
 
-> How does replacing missing values with zeroes or the most common value for that feature affect model performance in neural networks compared to decision tree models?
+How does replacing missing values with zeroes or the most common value for that feature affect model performance in neural networks compared to decision tree models?
 
 ## 3. Dataset
 
 The data for this project comes from the "Users vs Bots Classification" dataset on Kaggle, which can be found here:
 [https://www.kaggle.com/datasets/juice0lover/users-vs-bots-classification/data](https://www.kaggle.com/datasets/juice0lover/users-vs-bots-classification/data)
-
-To use this project, please download the dataset and place it in the `data/raw/` directory.
 
 ## 4. Methods and Models
 
@@ -28,16 +26,9 @@ Data was preprocessed to handle categorical features and missing values to test 
 
 ## 5. How to Run This Project
 
-1.  **Clone the repository:**
-    ```bash
-    git clone bot-classification-analysis
-    ```
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Run the analysis:**
-    Open and run the `notebooks/bot_classification_analysis.ipynb` notebook in a Jupyter environment.
+1.  **Open bot-classification-analysis.ipnyb in Google Collab**
+2.  **Make a copy of the project**
+3.  **Set the train flag to True to retrain it**
 
 ## 6. Key Results
 
