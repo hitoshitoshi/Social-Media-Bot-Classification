@@ -1,7 +1,5 @@
 # Social Media Bot Classification
 
-**Project by: Arnav (apallem), Joao (jscastro), Simon (sbeyzero)**
-
 ## 1. Introduction
 
 This project explores the effectiveness of tree-based and neural-based models for classifying social media accounts as either "user" or "bot". Using a public dataset from VK.com, we implement and compare an XGBoost model and a simple Neural Network to understand their performance on this binary classification task.
